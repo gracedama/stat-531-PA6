@@ -1,10 +1,15 @@
 ---
 title: "Practice Activity 6"
-author: "Tyler Lopez"
+<<<<<<< HEAD
+authors: "Tyler Lopez, Daniel Seiler, Oriana Ramirez, Grace Damaschino"
 format: 
   html:
     self-contained: true
 editor: visual
+=======
+format: html
+self-contained: TRUE
+>>>>>>> aa73d0402ec05e3caf0b05f7ef4f6ed66610d8f6
 ---
 
 ## Quarto
@@ -19,7 +24,11 @@ When you click the **Render** button a document will be generated that includes 
 1 + 1
 ```
 
+<<<<<<< HEAD
 You can add options to executable code like this
+=======
+You can add options to executable code like this 
+>>>>>>> aa73d0402ec05e3caf0b05f7ef4f6ed66610d8f6
 
 ```{r}
 #| echo: false
