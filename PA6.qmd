@@ -1,7 +1,7 @@
 ---
 title: "Practice Activity 6"
 <<<<<<< HEAD
-authors: "Tyler Lopez, Daniel Seiler, Oriana Ramirez, Grace Damaschino"
+authors: "Tylor Lopez, Daniel Seiler, Oriana Ramirez, Grace Damaschino "
 format: 
   html:
     self-contained: true
